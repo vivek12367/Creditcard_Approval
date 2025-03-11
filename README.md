@@ -130,7 +130,7 @@ streamlit run app.py
 
 ## 📜 License & Credits  
 📌 **License**: MIT  
-📌 **Author**: [Your Name]  
+📌 **Author**: Vivek Chatla  
 📌 **Reference**: [Credit Card Approval Prediction Blog](https://semasuka.github.io/blog/2022/10/12/credit-card-approval-prediction.html)  
 
 🚀 **Star this repo if you find it useful!** ⭐  
